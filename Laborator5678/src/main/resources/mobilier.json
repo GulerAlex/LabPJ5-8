@@ -1,0 +1,116 @@
+[
+  {
+    "nume": "birou modern",
+    "placi": [
+      {
+        "descriere": "blat",
+        "lungime": 1200,
+        "latime": 600,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "lateral",
+        "lungime": 740,
+        "latime": 600,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "polita interior",
+        "lungime": 800,
+        "latime": 200,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "sertar",
+        "lungime": 400,
+        "latime": 200,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          true
+        ],
+        "nr_bucati": 2
+      }
+    ]
+  },
+  {
+    "nume": "etajeră simplă",
+    "placi": [
+      {
+        "descriere": "bază",
+        "lungime": 900,
+        "latime": 300,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          true
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "lateral",
+        "lungime": 1500,
+        "latime": 300,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "polita",
+        "lungime": 860,
+        "latime": 300,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "spate",
+        "lungime": 900,
+        "latime": 1500,
+        "orientare": "LUNGIME",
+        "canturi": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      }
+    ]
+  }
+]
